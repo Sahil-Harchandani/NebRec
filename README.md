@@ -131,6 +131,17 @@ Enter your choice: 1
 
 * The accuracy and completeness of the scan results may vary depending on factors like network conditions, target configuration, and tool limitations.
 
+### Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+### License
+This project is licensed under the GPL-3.0 License - see the LICENSE file for details.
+
+### Acknowledgements
+* Created by Nebulous
+
+* Inspired by various open-source security tools
+
 ### Disclaimer
 * This tool is provided as-is, without any warranty or guarantee of any kind. The developers are not responsible for any misuse or damage caused by this tool. Use it responsibly and ethically.
 
@@ -138,6 +149,6 @@ Enter your choice: 1
 ### Note:
 Some features, such as CMS Detection, Parameter Tampering, and Public Code Repository Search, are not fully implemented, and their results may be incomplete or inaccurate.
 
-Feel free to tweak this as needed!
+
    
 
