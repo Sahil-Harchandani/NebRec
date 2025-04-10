@@ -1,0 +1,15 @@
+# Core Dependencies
+colorama==0.4.6
+cryptography==41.0.3
+selenium==4.11.2
+browser-cookie3==0.17.1
+requests==2.31.0
+
+# Platform-Specific Extras
+pywin32==306; sys_platform == 'win32'
+keyring==24.2.0; sys_platform == 'darwin'
+secretstorage==3.3.3; sys_platform == 'linux'
+
+# Development (Optional)
+pytest==7.4.0
+mermaid==0.1.0
